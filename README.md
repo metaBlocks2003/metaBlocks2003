@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Sengupta</h1>
 <h3 align="center">A passionate fullstack Web developer from India</h3>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and Next JS*
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/metablocks2003/sites](https://app.netlify.com/teams/metablocks2003/sites)
 
 - 💬 Ask me about **Tailwind, BOOTSRAP, HTML, CSS, JAVASCRIPT, moderate React.**
 
@@ -11,7 +10,7 @@
 
 - ⚡ Fun fact **I think i am a fast learner and is extremely passionate about coding and always want to learn new tech stacks to keep myself updated with the changing technology.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: adityasguptaus@gmail.com</h3>
 <p align="left">
 </p>
 
